@@ -19,18 +19,12 @@ e_roman_empire = {
 k_rome = {
 	color={ 175 27 128 }
 	color2={ 216 69 169 }
+	capital = 333 # Rome
+	
+	title = "ROMANSTATE"
+
 	has_top_de_jure_capital = yes
-
-	capital = 333 # Rome
-	roman = "Roma"
 	short_name = yes
-
 	culture = roman
 	religion = catholic
-
-	c_rome = {
-	capital = 333 # Rome
-	culture = roman
-	religion = catholic
-	}
 }

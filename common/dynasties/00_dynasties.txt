@@ -1,0 +1,763 @@
+#Patrician Dynasties Republic
+214021 ={
+	name="Claudius"
+	culture="roman"
+
+}
+214022 ={
+	name="Valerius"
+	culture="roman"
+
+}
+214023 ={
+	name="Julius"
+	culture="roman"
+
+}
+214024 ={
+	name="Cornelius"
+	culture="roman"
+
+}
+214026 ={
+	name="Fabius"
+	culture="roman"
+
+}
+#Otherhouses
+214027 = {
+name= "Aburius" 
+culture = roman
+}
+214028 = {
+name= "Accius" 
+culture = roman
+}
+214029 = {
+name= "Accoleius" 
+culture = roman
+}
+214030 = {
+name= "Acilius" 
+culture = roman
+}
+214031 = {
+name= "Aebutius" 
+culture = roman
+}
+214032 = {
+name= "Aedinius" 
+culture = roman
+}
+214033 = {
+name= "Aelius" 
+culture = roman
+}
+214034 = {
+name= "Aemilius" 
+culture = roman
+}
+214035 = {
+name= "Albanius" 
+culture = roman
+}
+214036 = {
+name= "Albatius" 
+culture = roman
+}
+214037 = {
+name= "Allectius" 
+culture = roman
+}
+214038 = {
+name= "Amatius" 
+culture = roman
+}
+214039 = {
+name= "Annius" 
+culture = roman
+}
+214040 = {
+name= "Antistius" 
+culture = roman
+}
+214041 = {
+name= "Antius" 
+culture = roman
+}
+214042 = {
+name= "Antonius" 
+culture = roman
+}
+214043 = {
+name= "Appuleius" 
+culture = roman
+}
+214044 = {
+name= "Aquillius" 
+culture = roman
+}
+214045 = {
+name= "Armenius" 
+culture = roman
+}
+214046 = {
+name= "Arrius" 
+culture = roman
+}
+214047 = {
+name= "Arsinius" 
+culture = roman
+}
+214048 = {
+name= "Bantius" 
+culture = roman
+}
+214049 = {
+name= "Barbatius" 
+culture = roman
+}
+214050 = {
+name= "Barrius" 
+culture = roman
+}
+214051 = {
+name= "Betilienus" 
+culture = roman
+}
+214052 = {
+name= "Betucius" 
+culture = roman
+}
+214053 = {
+name= "Blandius" 
+culture = roman
+}
+214054 = {
+name= "Blossius" 
+culture = roman
+}
+214055 = {
+name= "Bruttius" 
+culture = roman
+}
+214056 = {
+name= "Bucculeius" 
+culture = roman
+}
+214057 = {
+name= " Burrienus" 
+culture = roman
+}
+214058 = {
+name= "Caecilius" 
+culture = roman
+}
+214059 = {
+name= "Caecina" 
+culture = roman
+}
+214060 = {
+name= "Caecius" 
+culture = roman
+}
+214061 = {
+name= "Caedicius" 
+culture = roman
+}
+214062 = {
+name= "Caelius" 
+culture = roman
+}
+214063 = {
+name= "Caeparius" 
+culture = roman
+}
+214064 = {
+name= "Caepasius" 
+culture = roman
+}
+214065 = {
+name= "Caerellius" 
+culture = roman
+}
+214066 = {
+name= "Caesennius" 
+culture = roman
+}
+214067 = {
+name= "Caesetius" 
+culture = roman
+}
+214068 = {
+name= "Caesius" 
+culture = roman
+}
+214069 = {
+name= "Caesonius" 
+culture = roman
+}
+214070 = {
+name= "Caesulenus" 
+culture = roman
+}
+214071 = {
+name= "Caetronius" 
+culture = roman
+}
+214072 = {
+name= "Calavius" 
+culture = roman
+}
+214073 = {
+name= "Cosconius" 
+culture = roman
+}
+214074 = {
+name= "Cossinius" 
+culture = roman
+}
+214075 = {
+name= "Cossutius" 
+culture = roman
+}
+214076 = {
+name= "Cotius" 
+culture = roman
+}
+214077 = {
+name= "Cottius" 
+culture = roman
+}
+214078 = {
+name= "Crassitius" 
+culture = roman
+}
+214079 = {
+name= "Crepereius" 
+culture = roman
+}
+214080 = {
+name= "Critonius" 
+culture = roman
+}
+214081 = {
+name= "Cupiennius" 
+culture = roman
+}
+214082 = {
+name= "Curiatius" 
+culture = roman
+}
+214083 = {
+name= "Curius" 
+culture = roman
+}
+214084 = {
+name= "Curtilia" 
+culture = roman
+}
+214085 = {
+name= "Curtius" 
+culture = roman
+}
+214086 = {
+name= "Cuspius" 
+culture = roman
+}
+214087 = {
+name= "Duilius" 
+culture = roman
+}
+214088 = {
+name= "Durmius" 
+culture = roman
+}
+214089 = {
+name= "Duronius" 
+culture = roman
+}
+214090 = {
+name= "Egilius" 
+culture = roman
+}
+214091 = {
+name= "Egnatius" 
+culture = roman
+}
+214092 = {
+name= "Egnatuleius" 
+culture = roman
+}
+214093 = {
+name= "Ennius" 
+culture = roman
+}
+214094 = {
+name= "Epidius" 
+culture = roman
+}
+214095 = {
+name= "Eppius" 
+culture = roman
+}
+214096 = {
+name= "Equitius" 
+culture = roman
+}
+214097 = {
+name= "Erucius" 
+culture = roman
+}
+214098 = {
+name= "Fuficius" 
+culture = roman
+}
+214099 = {
+name= "Fufidius" 
+culture = roman
+}
+214100 = {
+name= "Fufius" 
+culture = roman
+}
+214101 = {
+name= "Fulcinius" 
+culture = roman
+}
+214102 = {
+name= "Fulvius" 
+culture = roman
+}
+214103 = {
+name= "Fundanus" 
+culture = roman
+}
+214104 = {
+name= "Gallius" 
+culture = roman
+}
+214105 = {
+name= "Gargonius" 
+culture = roman
+}
+214106 = {
+name= "Gavius" 
+culture = roman
+}
+214107 = {
+name= "Geganius" 
+culture = roman
+}
+214108 = {
+name= "Gellius" 
+culture = roman
+}
+214109 = {
+name= "Geminius" 
+culture = roman
+}
+214110 = {
+name= "Genucius" 
+culture = roman
+}
+214111 = {
+name= "Gessius" 
+culture = roman
+}
+214112 = {
+name= "Granius" 
+culture = roman
+}
+214113 = {
+name= "Helvius" 
+culture = roman
+}
+214114 = {
+name= "Herennius" 
+culture = roman
+}
+214115 = {
+name= "Herminius" 
+culture = roman
+}
+214116 = {
+name= "Hirrius" 
+culture = roman
+}
+214117 = {
+name= "Hirtius" 
+culture = roman
+}
+214118 = {
+name= "Hirtuleius" 
+culture = roman
+}
+214119 = {
+name= "Horatius" 
+culture = roman
+}
+214120 = {
+name= "Hortensius" 
+culture = roman
+}
+214121 = {
+name= "Insteius" 
+culture = roman
+}
+214122 = {
+name= "Junius" 
+culture = roman
+}
+214123 = {
+name= "Juventius" 
+culture = roman
+}
+214124 = {
+name= "Latinius" 
+culture = roman
+}
+214125 = {
+name= "Lavinius" 
+culture = roman
+}
+214126 = {
+name= "Lecanius" 
+culture = roman
+}
+214127 = {
+name= "Lentidius" 
+culture = roman
+}
+214128 = {
+name= "Liburnius" 
+culture = roman
+}
+214129 = {
+name= "Licinius" 
+culture = roman
+}
+214130 = {
+name= "Ligarius" 
+culture = roman
+}
+214131 = {
+name= "Livius" 
+culture = roman
+}
+214132 = {
+name= "Lollius" 
+culture = roman
+}
+214133 = {
+name= "Manilius" 
+culture = roman
+}
+214134 = {
+name= "Marcius" 
+culture = roman
+}
+214135 = {
+name= "Marius" 
+culture = roman
+}
+214136 = {
+name= "Matius" 
+culture = roman
+}
+214137 = {
+name= "Matienus" 
+culture = roman
+}
+214138 = {
+name= "Matinius" 
+culture = roman
+}
+214139 = {
+name= "Matrinius" 
+culture = roman
+}
+214140 = {
+name= "Maximius" 
+culture = roman
+}
+214141 = {
+name= "Memmius" 
+culture = roman
+}
+214142 = {
+name= "Menenius" 
+culture = roman
+}
+214143 = {
+name= "Menius" 
+culture = roman
+}
+214144 = {
+name= "Mescinius" 
+culture = roman
+}
+214145 = {
+name= "Messienus" 
+culture = roman
+}
+214146 = {
+name= "Messius" 
+culture = roman
+}
+214147 = {
+name= "Metilius" 
+culture = roman
+}
+214148 = {
+name= "Mettius" 
+culture = roman
+}
+214149 = {
+name= "Milonius" 
+culture = roman
+}
+214150 = {
+name= "Mimesius" 
+culture = roman
+}
+214151 = {
+name= "Minatius" 
+culture = roman
+}
+214152 = {
+name= "Minicius" 
+culture = roman
+}
+214153 = {
+name= "Minidius" 
+culture = roman
+}
+214154 = {
+name= "Minucius" 
+culture = roman
+}
+214155 = {
+name= "Maxentius" 
+culture = roman
+}
+214156 = {
+name= "Ninnius" 
+culture = roman
+}
+214157 = {
+name= "Nipius" 
+culture = roman
+}
+214158 = {
+name= "Nonius" 
+culture = roman
+}
+214159 = {
+name= "Norbanus" 
+culture = roman
+}
+214160 = {
+name= "Novellius" 
+culture = roman
+}
+214161 = {
+name= "Novius" 
+culture = roman
+}
+214162 = {
+name= "Numerius" 
+culture = roman
+}
+214163 = {
+name= "Numicius" 
+culture = roman
+}
+214164 = {
+name= "Numisius" 
+culture = roman
+}
+214165 = {
+name= "Numitorius" 
+culture = roman
+}
+214166 = {
+name= "Nummius" 
+culture = roman
+}
+214167 = {
+name= "Octavenus" 
+culture = roman
+}
+214168 = {
+name= "Octavius" 
+culture = roman
+}
+214169 = {
+name= "Ofanius" 
+culture = roman
+}
+214170 = {
+name= "Ofilius" 
+culture = roman
+}
+214171 = {
+name= "Ogulnius" 
+culture = roman
+}
+214172 = {
+name= "Ollius" 
+culture = roman
+}
+214173 = {
+name= "Opellius" 
+culture = roman
+}
+214174 = {
+name= "Opetreia" 
+culture = roman
+}
+214175 = {
+name= "Opimius" 
+culture = roman
+}
+214176 = {
+name= "Opiternia" 
+culture = roman
+}
+214177 = {
+name= "Oppidius" 
+culture = roman
+}
+214178 = {
+name= "Oppius" 
+culture = roman
+}
+214179 = {
+name= "Opsidius" 
+culture = roman
+}
+214180 = {
+name= "Opsilius" 
+culture = roman
+}
+214181 = {
+name= "Opsius" 
+culture = roman
+}
+214182 = {
+name= "Oranius" 
+culture = roman
+}
+214183 = {
+name= "Orbicius" 
+culture = roman
+}
+214184 = {
+name= "Orbilius" 
+culture = roman
+}
+214185 = {
+name= "Orchius" 
+culture = roman
+}
+214186 = {
+name= "Orcivius" 
+culture = roman
+}
+214187 = {
+name= "Orfidius" 
+culture = roman
+}
+214188 = {
+name= "Palfurius" 
+culture = roman
+}
+214189 = {
+name= "Palpellius" 
+culture = roman
+}
+214190 = {
+name= "Pantuleius" 
+culture = roman
+}
+214191 = {
+name= "Papinius" 
+culture = roman
+}
+214192 = {
+name= "Papirius" 
+culture = roman
+}
+214193 = {
+name= "Papius" 
+culture = roman
+}
+214194 = {
+name= "Pasidienus" 
+culture = roman
+}
+214195 = {
+name= "Pasidius" 
+culture = roman
+}
+214196 = {
+name= "Passienus" 
+culture = roman
+}
+214197 = {
+name= "Patulcius" 
+culture = roman
+}
+214198 = {
+name= "Pedanius" 
+culture = roman
+}
+214199 = {
+name= "Pedius" 
+culture = roman
+}
+214200 = {
+name= "Peducaeus" 
+culture = roman
+}
+214201 = {
+name= "Peltrasius" 
+culture = roman
+}
+214202 = {
+name= "Percennius" 
+culture = roman
+}
+214203 = {
+name= "Perperna" 
+culture = roman
+}
+214204 = {
+name= "Persius" 
+culture = roman
+}
+214205 = {
+name= "Pescennius" 
+culture = roman
+}
+214206 = {
+name= "Petellius" 
+culture = roman
+}
+214207 = {
+name= "Petillius" 
+culture = roman
+}
+214208 = {
+name= "Quinctilius" 
+culture = roman
+}
+214209 = {
+name= "Quinctius" 
+culture = roman
+}
+214210 = {
+name= "Quirinius" 
+culture = roman
+}
