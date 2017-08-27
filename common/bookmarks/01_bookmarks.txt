@@ -1,0 +1,26 @@
+bm_firstpunic = {
+	name = „RP_FIRSTPUNIC_ERA"
+	desc = "RP_FIRSTPUNIC_ERA_INFO"
+	date = 769.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+	selectable_character = {
+		id = 840000 # Consul Appius
+		age = 26
+		name = ERA_CHAR_NAME_840000
+		title = k_rome
+		title_name = ROMAN_STATE
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion="hellenic_pagan"
+			culture="roman"
+			government = latin_republic_government
+			dynasty=214021
+		}
+	}
+
+}

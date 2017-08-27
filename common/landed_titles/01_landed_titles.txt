@@ -1,0 +1,38 @@
+
+e_roman_empire = {
+	color={ 167 10 100 }
+	
+	color2={ 255 255 20 }
+	
+	capital = 333 # Rome
+	
+	short_name = yes
+	
+	title = "princeps"
+	purple_born_heirs = yes
+	
+	culture = roman
+	religion = hellenic_pagan
+	
+
+}
+k_rome = {
+	color={ 175 27 128 }
+	color2={ 216 69 169 }
+	has_top_de_jure_capital = yes
+
+	capital = 333 # Rome
+	roman = "Roma"
+	short_name = yes
+	
+	title = "consule"
+	
+	culture = roman
+	religion = hellenic_pagan
+	
+
+	c_rome = {
+	culture = roman
+	religion = hellenic_pagan
+	}
+}
