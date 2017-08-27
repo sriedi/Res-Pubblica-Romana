@@ -12,7 +12,7 @@ e_roman_empire = {
 	purple_born_heirs = yes
 	
 	culture = roman
-	religion = hellenic_pagan
+	religion = catholic
 	
 
 }
@@ -24,15 +24,13 @@ k_rome = {
 	capital = 333 # Rome
 	roman = "Roma"
 	short_name = yes
-	
-	title = "consule"
-	
+
 	culture = roman
-	religion = hellenic_pagan
-	
+	religion = catholic
 
 	c_rome = {
+	capital = 333 # Rome
 	culture = roman
-	religion = hellenic_pagan
+	religion = catholic
 	}
 }
